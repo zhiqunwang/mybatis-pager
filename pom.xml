@@ -11,6 +11,7 @@
 
 
     <name>mybatis-pager</name>
+    <url>http://maven.apache.org</url>
 
     <properties>
         <!-- jdk 版本 -->
